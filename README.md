@@ -6,6 +6,7 @@ These candidates are then filtered in a post-processing stage to eliminate near-
 Seeding is performed using a binning technique for scalability.
 ##### - scikit_learn
 
+<<<<<<< HEAD
 
 ## Table of Contents
 * [Description](#Description)
@@ -117,3 +118,12 @@ Plot_Clustering(model,x)
 ## References :
 - **[scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html)**
 - **[wikipedia](https://en.wikipedia.org/wiki/Mean_shift)**
+=======
+<img src='Images/Figure_1.png' >
+<!--<img src='Images/Figure_1.png' width = 100 height = 100>-->
+<img src='Images/Figure_2.png' >
+
+<img src='Images/Figure_3.png' >
+
+<img src='Images/Figure_4.png' >
+>>>>>>> 98ead11cf949cd2a9915bdfba3491b8043f4f1f5
