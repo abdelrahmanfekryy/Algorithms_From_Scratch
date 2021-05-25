@@ -8,11 +8,11 @@ Seeding is performed using a binning technique for scalability.
 
 
 ## Table of Contents
-* [Description](#Description)
-* [Dependencies](#Dependencies)
-* [Implementation Phases](#Implementation-Phases)
-* [Usage Example](#Usage-Example)
-* [References](#References)
+* [Description](#description-)
+* [Dependencies](#dependencies-)
+* [Implementation Phases](#implementation-phases-)
+* [Usage Example](#usage-example-)
+* [References](#references-)
 
 ## Description :
 reimplementation of scikit-learn cluster.MeanShift model in a simplified, more readable and plottable method
